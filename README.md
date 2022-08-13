@@ -1,5 +1,5 @@
 # Image-Classification-using-ANN-
-###About Dataset
+### About Dataset
 Keras has an inbuilt dataset called fashion mnist and developers use this readily available dataset for immediate
 image classification. It consist of 10 classes of fashion wears that could be classified using Neural networks.
 It is mostly used for learning purposes and availability. This project covers the classification of these images
